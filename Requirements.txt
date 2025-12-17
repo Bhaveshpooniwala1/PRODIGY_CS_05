@@ -1,0 +1,16 @@
+# Network Packet Analyzer - Dependencies
+# No external dependencies required - uses only Python standard library
+# Minimum Python version: 3.6+
+
+# Optional: For enhanced output formatting
+colorama>=0.4.6
+
+# Optional: For advanced network interface detection
+netifaces>=0.11.0
+
+# Note: This tool primarily uses Python's built-in libraries:
+# - socket (for raw socket operations)
+# - struct (for binary data parsing)
+# - platform (for OS detection)
+# - argparse (for CLI arguments)
+# - json (for data export)
