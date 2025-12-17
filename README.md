@@ -141,7 +141,7 @@ Raw sockets require elevated privileges because they:
 
 #### Option A: Using Git
 ```bash
-git clone https://github.com/yourusername/network-packet-analyzer.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_05.git
 cd network-packet-analyzer
 ```
 
@@ -818,9 +818,9 @@ This software is provided for educational purposes only. The author and contribu
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+- GitHub: [Bhaveshpooniwala1](https://github.com/Bhaveshpooniwala1)
+- LinkedIn: [Bhavesh Pooniwala](www.linkedin.com/in/bhavesh-pooniwala)
+- Email: pooniwalabhavesh7680@gmail.com
 
 ---
 
@@ -838,8 +838,8 @@ This software is provided for educational purposes only. The author and contribu
 If you encounter issues or have questions:
 
 1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search [existing issues](https://github.com/yourusername/network-packet-analyzer/issues)
-3. Create a [new issue](https://github.com/yourusername/network-packet-analyzer/issues/new)
+2. Search [existing issues](https://github.com/Bhaveshpooniwala1/PRODIGY_CS_05.git)
+3. Create a [new issue](https://github.com/Bhaveshpooniwala1/PRODIGY_CS_05/issues/new)
 
 ---
 
